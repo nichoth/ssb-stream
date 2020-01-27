@@ -1,0 +1,22 @@
+{
+  "name": "ssb-stream",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/ssb-stream.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/ssb-stream/issues"
+  },
+  "homepage": "https://github.com/nichoth/ssb-stream#readme",
+  "devDependencies": {
+    "tape": "^4.13.0"
+  }
+}
